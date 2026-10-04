@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+PYTHONPATH="/data/data/com.termux/files/home/206s_tool" exec python3 -m tool.cli "$@"
